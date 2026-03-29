@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repository 
 <br>
-author - satish yadav
+author - satish yadav(apna name)
